@@ -5,6 +5,8 @@ I'm a web developer passionate about technology and process optimization. I'm **
 ### 🚀 About Me
 - 🎓 Graduate in **Systems Analysis and Development** from **Unicesumar**
 - 💻 Web Developer, with knowledge in:
+-
+- 
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" />
@@ -12,7 +14,8 @@ I'm a web developer passionate about technology and process optimization. I'm **
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" />
-
+-
+-
 ### 💡 What I'm working on now
 - 🎯 Improving my knowledge of **Node.js**
 - 🛠️ Developing my own **API**
