@@ -1,6 +1,6 @@
 ## Hello! I'm Pedro 👋
 
-I'm a web developer passionate about technology and process optimization. I'm **23 years old** and live in **Brasília**. Currently, I develop websites for **Trinity.ads** and also work on independent projects, including WordPress sites and web applications.
+I'm a web developer passionate about technology and process optimization. I'm **23 years old** and live in **Brasília**. Currently, I develop websites for **Trinity Ads** and also work on independent projects, including WordPress sites and web applications.
 
 ### 🚀 About Me
 - 🎓 Graduate in **Systems Analysis and Development** from **Unicesumar**
@@ -15,6 +15,8 @@ I'm a web developer passionate about technology and process optimization. I'm **
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicon@2.15.0/devicon.min.css">
+
 
 
 
