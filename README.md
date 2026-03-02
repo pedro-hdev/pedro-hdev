@@ -1,6 +1,6 @@
 ## Hello! I'm Pedro 👋
 
-I'm a web developer passionate about technology and process optimization. I'm **23 years old** and live in **Brasília**. Currently, I develop websites for **Trinity Ads** and also work on independent projects, including WordPress sites and web applications.
+I'm a web developer passionate about technology and process optimization. I'm 24 years old and live in Brasília. Currently, I work as COO at Delta Ads, a company focused on paid traffic and results generation, and I also develop front-end projects at Tryzo.
 
 ### 🚀 About Me
 - 🎓 Graduate in **Systems Analysis and Development** from **Unicesumar**
