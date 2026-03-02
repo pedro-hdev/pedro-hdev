@@ -21,17 +21,9 @@ I'm a web developer passionate about technology and process optimization. I'm 24
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="50"/>
           
 
-
-
-
-### 💡 What I'm working on now
-- 🎯 Improving my knowledge of **Node.js**
-- 🛠️ Developing my own **API**
-
 ### 📫 How to reach me
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-h-a3941310b/)  
-- 📷 [Instagram](https://www.instagram.com/triinity.ads/)  
-- 🌐 [Trinity ADS](https://www.instagram.com/triinity.ads/)  
+- 📷 [Instagram](https://www.instagram.com/pedro_hveras/)  
+- 🌐 [Delta ADS](https://www.instagram.com/delltaads/)  
 - ✉️ Email: [pedrophverasveras@gmail.com](mailto:pedrophverasveras@gmail.com)
 
 ---
